@@ -82,7 +82,17 @@ class MainActivity : AppCompatActivity() {
             val intent: Intent = Intent(this, Hospitales_view::class.java)
             startActivity(intent)
         }
-
-
+        textView2.setOnClickListener {
+            val intent: Intent = Intent(this, Anuncios_View::class.java)
+            startActivity(intent)
+        }
+        textView1.setOnClickListener {
+            val intent: Intent = Intent(this, Anuncios_View::class.java)
+            startActivity(intent)
+        }
+        textView3.setOnClickListener {
+            val intent: Intent = Intent(this, Hospitales_view::class.java)
+            startActivity(intent)
+        }
     }
 }
