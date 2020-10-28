@@ -78,7 +78,10 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
         }
 
-
+        textView4.setOnClickListener {
+            val intent: Intent = Intent(this, Hospitales_view::class.java)
+            startActivity(intent)
+        }
 
 
     }

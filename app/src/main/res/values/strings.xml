@@ -10,6 +10,9 @@
     <string name="title3"> Incentivos</string>
     <string name="title4"> Tipos De RH</string>
     <string name="title5"> Informaciòn</string>
+    <string name="title6"> Hospitales</string>
+    <string name="title7"> Detalle Hospitales</string>
+
     <string name="apto"> Saber si soy Apto</string>
 
 </resources>

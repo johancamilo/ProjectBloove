@@ -4,12 +4,9 @@ import android.content.Context
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.view.ViewParent
 import android.widget.ArrayAdapter
-import kotlinx.android.synthetic.main.activity_main.view.*
 import kotlinx.android.synthetic.main.activity_main.view.imageView
 import kotlinx.android.synthetic.main.item_1.view.*
-import java.text.FieldPosition
 
 
 class Requi1Adapter(private val mContext: Context, private val listas: List<lista1>) : ArrayAdapter<lista1>(mContext, 0, listas){
