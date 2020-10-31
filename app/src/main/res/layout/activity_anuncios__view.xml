@@ -7,4 +7,6 @@
     tools:context=".Anuncios_View"
     android:background="@color/white">
 
+
+
 </androidx.constraintlayout.widget.ConstraintLayout>

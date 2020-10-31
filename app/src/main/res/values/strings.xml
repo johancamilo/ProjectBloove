@@ -14,5 +14,10 @@
     <string name="title7"> Detalle Hospitales</string>
 
     <string name="apto"> Saber si soy Apto</string>
+    <string name="ab">AB+ es el tipo de  sangre más raro del tipo ABO, con sólo 1 de cada 29 personas, o 3.4% de la población  con este tipo. AB+ sólo le puede dar a otros receptores de AB+, pero como el receptor universal puede  recibir de todos los otros tipos  de sangre.
+ A los donantes AB+ se les   recomienda hacer donaciones de plaquetas y de plasma.</string>
 
+    <string name="abnegativo">
+    El tipo de sangre más raro, el AB-, sólo lo tiene el 0.6% de la población, o 1 de cada 67 personas. El tipo de sangre AB- le puede donar a AB- y a AB+, y puede recibir de todos los tipos de sangre negativos. A los donantes del tipo de sangre AB- se le recomienda donar plaquetas y plasma.
+    </string>
 </resources>

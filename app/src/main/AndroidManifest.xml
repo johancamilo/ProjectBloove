@@ -13,7 +13,9 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.NoActionBar">
-        <activity android:name=".Anuncios_View"></activity>
+        <activity android:name=".Tipo_ab_negativo"></activity>
+        <activity android:name=".tipo_ab_positivo" />
+        <activity android:name=".Anuncios_View" />
         <activity android:name=".Detalle_Hospitales" />
         <activity android:name=".Hospitales_view" />
         <activity android:name=".Informacion_View" />
